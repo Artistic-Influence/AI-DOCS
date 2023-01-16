@@ -1,9 +1,3 @@
-### To-do:
-- [ ] Check if all tests below need to be run.
-- [ ] Theme password protect must be disabled to run tests?
-
----
-
 ## Accessibility Test
 - [ ] [Use Theme Check to identify performance issues](https://shopify.dev/themes/best-practices/performance#use-theme-check-to-identify-performance-issues)
 - [ ] [Check Speed Score and Report](https://help.shopify.com/en/manual/online-store/store-speed/speed-report?shpxid=b9695b10-4923-45C7-CD42-AD47164CB5D5)
