@@ -1,10 +1,10 @@
-## Accessibility Test
+## Accessibility Tests
 - [ ] [Use Theme Check to identify performance issues](https://shopify.dev/themes/best-practices/performance#use-theme-check-to-identify-performance-issues)
 - [ ] [Check Speed Score and Report](https://help.shopify.com/en/manual/online-store/store-speed/speed-report?shpxid=b9695b10-4923-45C7-CD42-AD47164CB5D5)
 - [ ] [Run Lighthouse audit using Shopify data](https://shopify.dev/themes/best-practices/performance#run-a-lighthouse-audit-using-shopify-data)
 - [ ] [View managed store performance](https://help.shopify.com/en/partners/dashboard/managing-stores/store-performance?shpxid=b9695b10-4923-45C7-CD42-AD47164CB5D5)
 
-# Checklist
+# Main Checklist
 
 ## Keyboard Support 
 - [ ] The focus indicator is visible and consistent on active elements. When navigating with either the mouse or the keyboard, the focus indicator is apparent on active elements.
