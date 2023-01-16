@@ -10,8 +10,6 @@
 - [ ] [Run Lighthouse audit using Shopify data](https://shopify.dev/themes/best-practices/performance#run-a-lighthouse-audit-using-shopify-data)
 - [ ] [View managed store performance](https://help.shopify.com/en/partners/dashboard/managing-stores/store-performance?shpxid=b9695b10-4923-45C7-CD42-AD47164CB5D5)
 
----
-
 # Checklist
 
 #### Keyboard Support 
